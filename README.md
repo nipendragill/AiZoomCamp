@@ -1,0 +1,1 @@
+Installed uv, pip3 install uv
